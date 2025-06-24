@@ -1,0 +1,30 @@
+# Virtual environment
+chatenv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+
+# Django-specific
+db.sqlite3
+.env
+*.env
+**/migrations/*.py
+**/migrations/*.pyc
+**/__pycache__/
+
+# IDEs / Editors
+.vscode/
+.idea/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Testing
+.pytest_cache/
