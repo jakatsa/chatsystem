@@ -1,10 +1,10 @@
-# 🌐 **ChatSystem Backend**
+# **ChatSystem Backend**
 
 Real-time messaging backend built with **Django**, **Django Channels**, and **Redis**, supporting WebSocket-based communication with features like live chat, typing indicators, and user presence tracking.
 
 ---
 
-## 🚀 **Key Features**
+## **Key Features**
 
 - **WebSocket Integration**:  
   Utilizes Django Channels to support WebSocket connections for real-time messaging.
@@ -29,13 +29,13 @@ Real-time messaging backend built with **Django**, **Django Channels**, and **Re
 
 ---
 
-## 📡 **Understanding WebSocket**
+## **Understanding WebSocket**
 
 WebSocket provides a persistent connection between the client and server, enabling bi-directional communication without waiting for a server response like HTTP. This is crucial for achieving real-time functionality.
 
 ---
 
-## ⚙️ **WebSocket Setup in Django**
+## **WebSocket Setup in Django**
 
 ### Install Required Libraries
 
@@ -89,7 +89,7 @@ Backend/
 
 ---
 
-## 💻 **Getting Started**
+## **Getting Started**
 
 ### Prerequisites
 
@@ -152,7 +152,7 @@ Backend/
 
 ---
 
-## 🧩 **Key Components**
+## **Key Components**
 
 ### **Backend**
 
